@@ -110,10 +110,6 @@
 *.rst linguist-detectable=false
 *.rst linguist-documentation=false
 *.rst linguist-language=ReStructured-Text
-# WikiText
-*.wiki linguist-detectable=false
-*.wiki linguist-documentation=false
-*.wiki linguist-language=WikiText
 # BibTeX
 *.bib linguist-detectable=false
 *.bib linguist-documentation=false
@@ -169,6 +165,6 @@
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2022, Thursday, September 22nd at 1:47 pm PST)
-# Line count (including blank lines and compiler line): 175
+# File version: 6 (2022, Thursday, September 22nd at 1:52 pm PST)
+# Line count (including blank lines and compiler line): 171
 # End of script
